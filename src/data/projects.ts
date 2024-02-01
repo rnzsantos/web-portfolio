@@ -24,7 +24,7 @@ const projects: Project[] = [
     tools: ['React', 'TypeScript', 'Tailwind CSS', 'shadcn/ui'],
     image: whatowatch,
     link: 'https://whatowatch-renzo.vercel.app/',
-    code: 'https://github.com/rnzsantos',
+    code: 'https://github.com/rnzsantos/whatowatch',
   },
   {
     id: 2,
